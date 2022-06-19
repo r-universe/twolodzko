@@ -1,0 +1,10 @@
+[
+  {
+    "package": "extraDistr",
+    "oncran": true
+  },
+  {
+    "package": "kernelboot",
+    "oncran": true
+  }
+]

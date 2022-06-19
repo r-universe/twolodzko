@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "extraDistr"]
+	path = extraDistr
+	url = https://github.com/twolodzko/extradistr
+	shallow = true
+	registered = true
+[submodule "kernelboot"]
+	path = kernelboot
+	url = https://github.com/twolodzko/kernelboot
+	shallow = true
+	registered = true
