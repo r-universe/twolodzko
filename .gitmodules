@@ -8,3 +8,8 @@
 	url = https://github.com/twolodzko/extradistr
 	shallow = true
 	registered = true
+[submodule "kernelboot"]
+	path = kernelboot
+	url = https://github.com/twolodzko/kernelboot
+	shallow = true
+	registered = true
